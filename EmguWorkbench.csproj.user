@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Development\Libraries\emgucv-win-x64-gpu-2.3.0\;C:\Development\Libraries\emgucv-win-x64-gpu-2.3.0\bin\;C:\Development\Libraries\emgucv-win-x64-gpu-2.3.0\Emgu.CV.UI\</ReferencePath>
+  </PropertyGroup>
+</Project>
